@@ -1,2 +1,1 @@
-# Clash
-Clash个人配置
+# Clash个人配置
