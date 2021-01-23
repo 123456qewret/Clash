@@ -1,8 +1,8 @@
-(?=^)@薯条|
+(?=^)@薯条 
 \s(A|B|C|D|E)(\s)?(\d\d)@ $3
  Netflix 动画疯@*
- Netflix@*
   1Gbps Netflix HBO TVB@*
+ Netflix@*
   500Mbps 1倍@
 
 中国\-@
@@ -17,4 +17,7 @@ Equinix\sHK2 @
 
 俄罗斯.*(\d{2})@俄罗斯 IPLC $1
 
-新加坡(高级|\s(Legacy\s)?Magic).*(\d{2})@新加坡$1 IEPL $2
+新加坡.*(\d{2})@新加坡 IEPL $1
+
+美国.*(\d{2})@美国 IEPL $1
+
