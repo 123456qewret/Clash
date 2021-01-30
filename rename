@@ -1,15 +1,16 @@
-流媒体@
-TVB\/HBO\/Netflix@
-NF@
- Netflix 动画疯@
-Netflix Hulu HBO@
-Netflix HBO TVB@
-Netflix@
+流媒体@*
+TVB\/HBO\/Netflix@*
+NF@*
+ Netflix 动画疯@*
+Netflix Hulu HBO@*
+Netflix HBO TVB@*
+Netflix@*
 
 .(\d)*.bps@
 \s(A|B|C|D|E)(\s)?(\d\d)@ $3
 中国\-@
 中继 @
+ 1倍@
 
 ;SSRCloud
 ソフトバンク@软银
@@ -30,6 +31,7 @@ BBC @
 南非.*(\d{2})@南非 IPLC $1
 印度.*(\d{2})@印度 IPLC $1
 Anycast@AGA
+实验性@实验
 
 ;EXFLUX
 Access@
