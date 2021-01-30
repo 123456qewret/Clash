@@ -23,13 +23,12 @@ Elastic Network Adapter 10 Anycast任播@AGA
 BBC @
 香港 (IEPL|IPLC).*(\d{2}).*@香港 $1 $2
 (香港).*(HE|HGC|HKT|HKBN)\s(\d\d)@$1 $2 $3
+专线 港区解锁@
 (台湾固网|HiNet固接)\s@
 沪日IEPL传输 Equinix\-TY8@IEPL
 Новосиби́рская о́бласть Советский район Ростелеком @
 南非.*(\d{2})@南非 IPLC $1
 印度.*(\d{2})@印度 IPLC $1
- Legacy Magic @初级
- Magic @中级
 Anycast@AGA
 
 ;EXFLUX
