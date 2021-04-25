@@ -1,0 +1,8 @@
+;MDSS
+V4\d*@MDSS
+
+;YTOO
+(?=^(实验|高级|标准|特殊|购物))@YTOO 
+
+;EXFLUX
+(?=^(.*(\*|Metro|Hinet)))@FLUX 
