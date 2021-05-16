@@ -1,5 +1,5 @@
 ;MDSS
-V(\d)\d*@MDSS V$1
+V(\d)\d*@MDSS 
 
 ;YTOO
 (?=^(实验|高级|标准|特殊|购物))@YTOO 
