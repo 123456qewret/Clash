@@ -3,3 +3,5 @@ ruleset=!!import:https://raw.githubusercontent.com/123456qewret/Clash/main/rules
 custom_proxy_group=!!import:https://raw.githubusercontent.com/123456qewret/Clash/main/groups
 enable_rule_generator=true
 overwrite_original_rules=true
+add_emoji=false
+remove_old_emoji=flase
