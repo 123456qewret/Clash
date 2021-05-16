@@ -1,5 +1,9 @@
-exclude_remarks=(游戏)
-ruleset=!!import:https://raw.githubusercontent.com/123456qewret/Clash/main/rules
 custom_proxy_group=!!import:https://raw.githubusercontent.com/123456qewret/Clash/main/groups
 enable_rule_generator=true
 overwrite_original_rules=true
+ruleset=!!import:https://raw.githubusercontent.com/123456qewret/Clash/main/rules
+add_emoji=false
+remove_old_emoji=false
+udp_flag=true
+tcp_fast_open_flag=true
+exclude_remarks=(游戏)
