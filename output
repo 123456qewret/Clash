@@ -5,6 +5,4 @@ ruleset=!!import:https://raw.githubusercontent.com/123456qewret/Clash/main/rules
 rename=🇨🇳@🇹🇼
 add_emoji=false
 remove_old_emoji=false
-udp_flag=true
-tcp_fast_open_flag=true
 exclude_remarks=(游戏)
