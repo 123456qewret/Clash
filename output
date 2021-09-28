@@ -1,4 +1,4 @@
-add_emoji=ture
+add_emoji=false
 remove_old_emoji=false
 custom_proxy_group=!!import:https://raw.githubusercontent.com/123456qewret/Clash/main/groups
 enable_rule_generator=true
