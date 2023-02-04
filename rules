@@ -14,6 +14,8 @@
 🎮 Steam,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UBI/UBI.list
 🍎 苹果服务,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apple/Apple.list
 📲 电报信息,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Telegram/Telegram.list
+Ⓜ️ 微软服务,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Xbox/Xbox.list
+Ⓜ️ 微软服务,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Microsoft/Microsoft.list
 #🔰 节点选择,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Global/Global.list
 #🔰 节点选择,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Global/Global_Domain.list
 DIRECT,[]GEOIP,CN
