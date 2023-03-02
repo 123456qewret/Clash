@@ -2,10 +2,10 @@
 🇯🇵 日本,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Twitter/Twitter.list
 🇯🇵 日本,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Instagram/Instagram.list
 🇯🇵 日本,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AbemaTV/AbemaTV.list
+🔰 节点选择, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bing/Bing.list
 🎥 NETFLIX,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Netflix/Netflix.list
 🎥 NETFLIX,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Disney/Disney.list
 🎥 NETFLIX,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonPrimeVideo/AmazonPrimeVideo.list
-#📺 YouTube,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTube/YouTube.list
 📺 Bilibili,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BiliBili/BiliBili.list
 📺 Bilibili,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BiliBiliIntl/BiliBiliIntl.list
 🎮 Steam,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SteamCN/SteamCN.list
@@ -16,7 +16,6 @@
 📲 电报信息,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Telegram/Telegram.list
 Ⓜ️ 微软服务,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Xbox/Xbox.list
 Ⓜ️ 微软服务,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Microsoft/Microsoft.list
-#🔰 节点选择,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Global/Global.list
 #🔰 节点选择,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Global/Global_Domain.list
 DIRECT,[]GEOIP,CN
 🐟 漏网之鱼,[]FINAL
